@@ -1,0 +1,34 @@
+{
+  "student": {
+    "_id": 71916,
+    "first_name": "Thomas",
+    "last_name": "Myers",
+    "mi": "W",
+    "enroll": [
+      {
+        "_id": 1,
+        "grade": "A",
+        "class": {
+          "_id": 3007,
+          "name": "Anatomy and Physiology"
+        }
+      },
+      {
+        "_id": 2,
+        "grade": "A",
+        "class": {
+          "_id": 3010,
+          "name": "Sports Medicine"
+        }
+      },
+      {
+        "_id": 3,
+        "grade": "A",
+        "class": {
+          "_id": 3012,
+          "name": "Biomechanics"
+        }
+      }
+    ]
+  }
+}
