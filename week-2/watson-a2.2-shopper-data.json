@@ -1,0 +1,55 @@
+{
+  "customer": {
+    "_id": 82,
+    "first_name": "Charles",
+    "last_name": "Darwin",
+    "date_of_birth": {"year": 1809, "month": 2, "day": 12},
+    "user_name": "cd_evolution",
+    "invoice": [
+      {
+        "_id": 1,
+        "date_created": {"year": 1829, "month": 10, "day": 19},
+        "date_shipped": {"year": 1829, "month": 10, "day": 29},
+        "subtotal": 5.00,
+        "tax": 0.50,
+        "total": 5.50,
+        "line_item": [
+          {
+            "_id": 100,
+            "name": "Chimpanzee",
+            "price": 4.00,
+            "quantity": 1
+          },
+          {
+            "_id": 60,
+            "name": "Chimpanzee Food - Large",
+            "price": 1.00,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "_id": 2,
+        "date_created": {"year": 1830, "month": 1, "day": 4},
+        "date_shipped": {"year": 1830, "month": 1, "day": 9},
+        "subtotal": 2.00,
+        "tax": 0.20,
+        "total": 2.20,
+        "line_item": [
+          {
+            "_id": 70,
+            "name": "Monkey Brush",
+            "price": 1.00,
+            "quantity": 1
+          },
+          {
+            "_id": 60,
+            "name": "Chimpanzee Food - Large",
+            "price": 1.00,
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  }
+}
