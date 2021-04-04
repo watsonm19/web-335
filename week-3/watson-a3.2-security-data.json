@@ -1,0 +1,35 @@
+{
+  "user": {
+    "_id": 21000000,
+    "name": "satoshin_btc",
+    "first_name": "Satoshi",
+    "last_name": "Nakamoto",
+    "roles": [
+      {
+        "title": "engineer",
+        "permissions": [
+          {"admin": true},
+          {"grant": true},
+          {"view": true},
+          {"edit": true},
+          {"delete": true}
+        ]
+      },
+      {
+        "title": "cryptographer",
+        "permissions": [
+          {"admin": true},
+          {"view": true},
+          {"edit": true},
+          {"delete": true}
+        ]
+      },
+      {
+        "title": "economist",
+        "permissions": [
+          {"admin": false}
+        ]
+      }
+    ]
+  }
+}
