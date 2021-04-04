@@ -1,0 +1,51 @@
+{
+    "publisher_name": "North Atlantic Books",
+    "publisher_code": "323248",
+    "publisher_address": {
+      "street": "9000 N Atlantic Blvd",
+      "city": "New York City",
+      "state": "New York",
+      "zip_code": 10001
+    },
+    "books": [
+      {
+        "book_isbn": 6456354,
+        "book_name": "Fascial Release for Structural Balance",
+        "book_price": 34.95,
+        "author": [
+          {
+            "author_first_name": "James",
+            "author_last_name": "Earls",
+            "author_phone": "555-789-9876",
+            "author_email": "earlsj@myemail.com"
+          },
+          {
+            "author_first_name": "Thomas",
+            "author_last_name": "Myers",
+            "author_phone": "555-987-6789",
+            "author_email": "tmyers@exemail.com"
+          }
+        ]
+      },
+      {
+        "book_isbn": 5476760,
+        "book_name": "Consciousness Medicine",
+        "book_price": 17.95,
+        "author": [
+          {
+            "author_first_name": "Francoise",
+            "author_last_name": "Bourzat",
+            "author_phone": "555-345-5432",
+            "author_email": "bourzf@snailmail.com"
+          },
+          {
+            "author_first_name": "Kristina",
+            "author_last_name": "Hunter",
+            "author_phone": "555-543-2345",
+            "author_email": "khunte@mybiz.com"
+          }
+        ]
+      }
+    ]
+}
+
